@@ -1,6 +1,6 @@
 ### Hi there 👋
 <img alt="GIF" src="github.gif" />
-<img align="right" alt="GIF" src="https://i.imgur.com/50NA7vr.gif" />
+<img align="right" alt="GIF" href="https://i.imgur.com/50NA7vr.gif" />
 <!--
 **RickyWanga/RickyWanga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
