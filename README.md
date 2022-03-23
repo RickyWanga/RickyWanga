@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img alt="GIF" src="github.gif" />
 <!--
 **RickyWanga/RickyWanga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
